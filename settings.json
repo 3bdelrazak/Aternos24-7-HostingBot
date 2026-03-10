@@ -8,7 +8,7 @@
   "server": {
     "ip": "SigmaCrafty.aternos.me",
     "port": 28164,
-    "version": ""
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
